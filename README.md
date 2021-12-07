@@ -1,3 +1,7 @@
+  <!-- badges: start -->
+  [![R-CMD-check](https://github.com/RVerse-Tutorials/TestPackage/workflows/R-CMD-check/badge.svg)](https://github.com/RVerse-Tutorials/TestPackage/actions)
+  <!-- badges: end -->
+
 # TestPackage
 A small package for students to experiment with.
 
