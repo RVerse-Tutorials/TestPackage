@@ -6,3 +6,5 @@
 ^TestPackage\.Rcheck$
 ^TestPackage.*\.tar\.gz$
 ^TestPackage.*\.tgz$
+.github
+.git

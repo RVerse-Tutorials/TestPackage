@@ -44,5 +44,3 @@ To install, use this code. You might need to install the **devtools** package. F
 devtools::install_github("RVerse-Tutorials/TestPackage")
 ```
 
-
-

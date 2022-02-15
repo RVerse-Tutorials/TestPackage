@@ -4,8 +4,8 @@ Version: 1.3
 Author: Eli Holmes
 Maintainer: <eli.holmes@noaa.gov>
 Description: This is a super simple toy package for students to copy and experiment with for the short course.
-Depends: R (>= 3.4.1), ggplot2
-Imports: forecast
+Depends: R (>= 3.4.1)
+Imports: forecast, ggplot2
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
