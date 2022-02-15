@@ -16,7 +16,7 @@ littleforecast(dat, nyears=100)
 
 # Try to add a function
 
-Add `hello.R` to the R folder.
+Add `hello.R` to the R folder. Use File > New File > R Script to create a new script file.
 
 ```
 #' Hello!
