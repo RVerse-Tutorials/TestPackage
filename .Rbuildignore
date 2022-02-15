@@ -1,6 +1,8 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^ToyPackage\.Rcheck$
+^ToyPackage.*\.tar\.gz$
+^ToyPackage.*\.tgz$
 ^TestPackage\.Rcheck$
 ^TestPackage.*\.tar\.gz$
 ^TestPackage.*\.tgz$
-^\.github$

@@ -5,3 +5,6 @@
 TestPackage.Rcheck/
 TestPackage*.tar.gz
 TestPackage*.tgz
+ToyPackage.Rcheck/
+ToyPackage*.tar.gz
+ToyPackage*.tgz
